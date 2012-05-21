@@ -1,4 +1,6 @@
 
+// Elliptic Diffie-Hellman stuff
+
 // ----------------
 // ECDomainParameters
 

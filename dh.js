@@ -1,4 +1,6 @@
 
+// Diffie-Hellman related stuff
+
 // ----------------
 // DHParameters
 

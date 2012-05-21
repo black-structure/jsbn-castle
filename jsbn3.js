@@ -1,3 +1,7 @@
+// Originally written by Tom Wu http://www-cs-students.stanford.edu/~tjw/jsbn/
+// Copyright (c) 2005  Tom Wu
+// All Rights Reserved.
+// See "LICENSE.old" for details.
 
 function BigIntegers() {}
 
